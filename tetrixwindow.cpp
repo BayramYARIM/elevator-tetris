@@ -183,7 +183,6 @@ bool TetrixWindow::eventFilter(QObject *obj, QEvent *event)
     QMouseEvent *mouseEvent = static_cast<QMouseEvent*>(event);
     qInfo() << (QString("Moved! (%1,%2)").arg(mouseEvent->pos().x()).arg(mouseEvent->pos().y()));
     QApplication::restoreOverrideCursor();
-    board->start();
   }
   return false;
 }
