@@ -7,7 +7,7 @@
 
 2025 Asansör İstanbul fuarı için yapılan tetris oyunu.
 
-Qt'nin örnek Tetrix uygulamasının görünümü ve bazı işlevleri değiştirilmiştir.
+Qt'nin örnek [Tetrix](https://doc.qt.io/qt-5/qtwidgets-widgets-tetrix-example.html)  uygulamasının görünümü ve bazı işlevleri değiştirilmiştir.
 
 Asansör butonlarının verileri okunarak oyun oynatılmıştır.
 
@@ -28,7 +28,7 @@ Asansör butonlarının verileri okunarak oyun oynatılmıştır.
 
 Tetris game made for the 2025 Elevator Istanbul fair.
 
-The appearance and some functions of the Qt sample Tetrix application have been changed.
+The appearance and some functions of the Qt sample [Tetrix](https://doc.qt.io/qt-5/qtwidgets-widgets-tetrix-example.html) application have been changed.
 
 The game was played by reading the data of the elevator buttons.
 
