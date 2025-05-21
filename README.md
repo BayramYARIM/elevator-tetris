@@ -1,13 +1,14 @@
 
 ## Ekran Görüntüleri / Screenshots
 
-![Screen0](https://github.com/BayramYARIM/elevator-tetris/blob/main/screenshot/screen0.jpg)
+<img src="https://github.com/BayramYARIM/elevator-tetris/blob/main/screenshot/screen0.jpg" width="30%" height="30%">
 
-![Screen1](https://github.com/BayramYARIM/elevator-tetris/blob/main/screenshot/screen1.jpg)
+<img src="https://github.com/BayramYARIM/elevator-tetris/blob/main/screenshot/screen1.jpg" width="30%" height="30%">
 
-![Screen2](https://github.com/BayramYARIM/elevator-tetris/blob/main/screenshot/screen2.jpg)
+<img src="https://github.com/BayramYARIM/elevator-tetris/blob/main/screenshot/screen2.jpg" width="30%" height="30%">
 
-  ## Türkçe
+
+## Türkçe
 
 2025 Asansör İstanbul fuarı için yapılan tetris oyunu.
 
